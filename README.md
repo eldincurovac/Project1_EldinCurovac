@@ -51,10 +51,8 @@
     <blockquote>
       <p>
         Throughout the CV you can find out that I am very
-        <strong
-          >sociable, communicative, open and a person willing to work both alone
-          and with a group of people,</strong
-        >
+        <strong>sociable, communicative, open and a person willing to work both alone
+          and with a group of people,</strong>
         in a team. My two biggest interests are <strong>programming</strong> and
         <strong>social interaction</strong>
         with people. I find that there are many jobs that just connect these two
@@ -64,7 +62,7 @@
         Croatian and Montenegrin fluently.
       </p>
     </blockquote>
-  <br />
+  <br/>
      <!-- 
       All the titles in the CV are divided from other text by the <hr> tag since we are not using the
       CSS for this project and we are trying to make it as nice as possible with only using HTML. All 
@@ -125,7 +123,7 @@
                     <strong>"Hour of Code"</strong>.</em></p> </p>
     </li>
     </ol>
-    <br />
+    <br/>
     </blockquote>
     <hr>
           <h2>WORKING EXPERIENCE <img src="work.png" alt="Work Icon" style="width:30px;height:30px;"> </h2> 
@@ -217,9 +215,7 @@
             <ins>+387 62 - 644 / 697</ins></dd></li>
     </dl>
 </ul>
-</adress>
-                </blockquote>
+</adress>           </blockquote>
     </body>
-
 </html>
 
