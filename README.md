@@ -31,11 +31,8 @@
     <blockquote>
       <p>
         Hello! My name is <strong>Eldin Curovac</strong> and I am a student of
-        the
-        <em
-          >3<sup>rd</sup> year of <abr title = "Software Engineering">SE</abr>, <abr title= "Faculty of Engineering
-          and Natural Sciences">FENS</abr> at <abr title= "International University of Sarajevo" > IUS </abr></em
-        >. My tution fee per year was <s>6000€</s>, but with 60% of the scholarship I pay <ins>2400€</ins>. 
+        the <em>3<sup>rd</sup> year of <abr title = "Software Engineering">SE</abr>, <abr title= "Faculty of Engineering
+          and Natural Sciences">FENS</abr> at <abr title= "International University of Sarajevo" > IUS </abr></em>. My tution fee per year was <s>6000€</s>, but with 60% of the scholarship I pay <ins>2400€</ins>. 
       </p>
     </blockquote>
 
@@ -44,7 +41,7 @@
         that I think are important for somebody who is trying to get to know me from the CV and hears my
         name for the first time. As well as the little icon connected to the meaning of the title.
     -->
-    <br />
+    <br/>
     <hr>
     <h2><strong>PROFILE</strong> <img src="profile.png" alt="Profile Icon" style="width:30px;height:30px;"> </h2>
     <hr>
