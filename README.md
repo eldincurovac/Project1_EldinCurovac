@@ -111,7 +111,6 @@ This is the first project from CS412-Web Application Development
     </ol>
     <br />
     </blockquote>
-    
     <hr>
           <h2>WORKING EXPERIENCE <img src="work.png" alt="Work Icon" style="width:30px;height:30px;"> </h2> 
           <hr>
