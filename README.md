@@ -1,29 +1,23 @@
 # Project1_EldinCurovac
 This is the first project from CS412-Web Application Development
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-   
     <title> CV - Eldin Curovac</title>
   </head>
-
   <body>
       <figure>
-         
     <h1><ins>Biography</ins></h1>
     <img src="cvpic.jpg" alt="My CV photo" style="width:200px;height:200px;">
-</figure>
-
+    </figure>
     <blockquote>
       <p>
         Hello! My name is <strong>Eldin Curovac</strong> and I am a student of
         the
         <em
           >3<sup>rd</sup> year of <abr title = "Software Engineering">SE</abr>, <abr title= "Faculty of Engineering
-          and Natural Sciences">FENS</abr> at <abr title= "International University of Sarajevo" > IUS </abr></em
-        >. My tution fee per year was <s>6000€</s>, but with 60% of the scholarship I pay <ins>2400€</ins>. 
+          and Natural Sciences">FENS</abr> at <abr title= "International University of Sarajevo" > IUS </abr></em>. My tution fee per year was <s>6000€</s>, but with 60% of the scholarship I pay <ins>2400€</ins>. 
       </p>
     </blockquote>
     <br />
@@ -72,8 +66,7 @@ This is the first project from CS412-Web Application Development
                     and Statistics, Project Management, Disscrete Mathematics , Software
                     Testing and Maintance , Computer Architecture , Database Managemet ,
                     Operations Research, Quality and Realibility Engineering, etc.</em> My
-                studies are in English.</p> </p>
-      </li>
+                studies are in English.</p> </p></li>
       <br>
       <li>
         <h3>HIGH SCHOOL</h3> 
