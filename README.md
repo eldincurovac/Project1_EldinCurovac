@@ -186,7 +186,9 @@
                         <li>Presentation </li>
                             <li>Foreign languages (English, Turkish)</li>
                 </ul>
+  
                 </blockquote>
+  
             </ul>
         <br>
         <hr>
@@ -200,19 +202,28 @@
             with functionality and ability of reading data clearly from it. 
     -->
     <adress>
+      
         <ul>
+          
         <li><dl><dt><strong>private e-mail:</strong></dt><dd><a href="mailto:eldin.curovac@icloud.com">
         eldin.curovac@icloud.com</a></dd></li>
         <li><dt><strong>official e-mail:</strong></dt>
+          
         <dd><a href="mailto:190302022@student.ius.edu.ba">
+          
             e.curovac@student.ius.edu.ba</a></dd></li>
+          
         <li><strong>adress:</strong> </li><dd>old adress: <del>Murisa Živojevića 7, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 73000 Goražde</del></dd>
     <dd>new adress: <ins>Stupska bb, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 71000 Sarajevo</ins></dd></li>
         <li><dl><dt><strong>phone number: </strong></dt><dd>
+          
             <ins>+387 62 - 644 / 697</ins></dd></li>
+          
     </dl>
 </ul>
-</adress>           </blockquote>
+
+</adress>       
+</blockquote>
     </body>
 </html>
 
