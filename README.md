@@ -79,7 +79,6 @@ This is the first project from CS412-Web Application Development
                     a school magazine, but also writing essays, and won first place at the federal 
                     level in one of the competitions.</p> </p>
       </li>
-    </li>
     <br>
     <li>
       <h3>PRIMARY SCHOOL</h3> 
@@ -139,7 +138,7 @@ This is the first project from CS412-Web Application Development
                     <li>Problem-solving </li>
                         <li>Time management </li>
                             <li>Leadership</li>
-                            </blockquote>
+                      
 <blockquote>
                             <h3>HARD SKILLS</h3>
             <ul type="circle">
@@ -164,18 +163,13 @@ This is the first project from CS412-Web Application Development
     <adress>
         <ul>
         <li><dl><dt><strong>private e-mail:</strong></dt><dd><a href="mailto:eldin.curovac@icloud.com">
-        eldin.curovac@icloud.com</a></dd></li>
+        eldin.curovac@icloud.com</a></dd>
         <li><dt><strong>official e-mail:</strong></dt>
         <dd><a href="mailto:190302022@student.ius.edu.ba">
-            e.curovac@student.ius.edu.ba</a></dd></li>
+            e.curovac@student.ius.edu.ba</a></dd>
         <li><strong>adress:</strong> </li><dd>old adress: <del>Murisa Živojevića 7, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 73000 Goražde</del></dd>
     <dd>new adress: <ins>Stupska bb, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 71000 Sarajevo</ins></dd></li>
         <li><dl><dt><strong>phone number: </strong></dt><dd>
-            <ins>+387 62 - 644 / 697</ins></dd></li>
+            <ins>+387 62 - 644 / 697</ins></dd>
     </dl>
-</ul>
-</adress>
-                </blockquote>
-    </body>
 
-</html>
