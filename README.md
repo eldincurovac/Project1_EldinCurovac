@@ -4,14 +4,6 @@ This is the first project from CS412-Web Application Development
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--
-        Name : Eldin Curovac
-        Course : Web Application Development
-        Assignment : LAB1 
-        Due Date: 10/10/2021
-        Purpose : To use all the tags we learned in first class and make our first HTML CV Resume. 
-        
-    -->
     <meta charset="UTF-8" />
    
     <title> CV - Eldin Curovac</title>
@@ -34,8 +26,6 @@ This is the first project from CS412-Web Application Development
         >. My tution fee per year was <s>6000€</s>, but with 60% of the scholarship I pay <ins>2400€</ins>. 
       </p>
     </blockquote>
-
-    
     <br />
     <hr>
     <h2><strong>PROFILE</strong> <img src="profile.png" alt="Profile Icon" style="width:30px;height:30px;"> </h2>
@@ -143,7 +133,6 @@ This is the first project from CS412-Web Application Development
         </ul>
         </blockquote>
         <br>
-        
         <hr>
         <h2>SKILLS <img src="skill.png" alt="Skills Icon" style="width:30px;height:30px;"></h2> 
         <hr>
@@ -171,8 +160,7 @@ This is the first project from CS412-Web Application Development
                 </blockquote>
 
                 
-            </ul>
-            
+            </ul>  
         <br>
         <hr>
             <h2>CONTACT ME <img src="contact.png" alt="Contact Icon" style="width:30px;height:30px;"></h2> 
@@ -194,9 +182,6 @@ This is the first project from CS412-Web Application Development
     </dl>
 </ul>
 </adress>
-    
-        
-        
                 </blockquote>
     </body>
 
