@@ -1,25 +1,49 @@
-# Project1_EldinCurovac
-This is the first project from CS412-Web Application Development
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!--
+        Name : Eldin Curovac
+        Course : Web Application Development
+        Assignment : LAB1 
+        Due Date: 10/10/2021
+        Purpose : To use all the tags we learned in first class and make our first HTML CV Resume. 
+    -->
     <meta charset="UTF-8" />
+    <!-- This part of the code is for initializing the title of our first website which is going to be shown
+    in the browser's tab
+-->
     <title> CV - Eldin Curovac</title>
   </head>
+
   <body>
+     <!-- The first and the main header of the website would be shown above 
+        the photo of the person -->
       <figure>
     <h1><ins>Biography</ins></h1>
     <img src="cvpic.jpg" alt="My CV photo" style="width:200px;height:200px;">
-    </figure>
+</figure>
+<!-- 
+    Since we want to make introudction to the CV and say few words about ourselves,
+    we are going to put it in <blockquote> and make it pop out of other text in the website. 
+    I tried to use as much as possible tags to practice and did not really write the most important informations
+    about myself here. 
+-->
     <blockquote>
       <p>
         Hello! My name is <strong>Eldin Curovac</strong> and I am a student of
         the
         <em
           >3<sup>rd</sup> year of <abr title = "Software Engineering">SE</abr>, <abr title= "Faculty of Engineering
-          and Natural Sciences">FENS</abr> at <abr title= "International University of Sarajevo" > IUS </abr></em>. My tution fee per year was <s>6000€</s>, but with 60% of the scholarship I pay <ins>2400€</ins>. 
+          and Natural Sciences">FENS</abr> at <abr title= "International University of Sarajevo" > IUS </abr></em
+        >. My tution fee per year was <s>6000€</s>, but with 60% of the scholarship I pay <ins>2400€</ins>. 
       </p>
     </blockquote>
+
+    <!-- 
+        I added the first title of the CV which I named "PROFILE" and put here all of the information
+        that I think are important for somebody who is trying to get to know me from the CV and hears my
+        name for the first time. As well as the little icon connected to the meaning of the title.
+    -->
     <br />
     <hr>
     <h2><strong>PROFILE</strong> <img src="profile.png" alt="Profile Icon" style="width:30px;height:30px;"> </h2>
@@ -40,13 +64,21 @@ This is the first project from CS412-Web Application Development
         Croatian and Montenegrin fluently.
       </p>
     </blockquote>
-  
   <br />
+     <!-- 
+      All the titles in the CV are divided from other text by the <hr> tag since we are not using the
+      CSS for this project and we are trying to make it as nice as possible with only using HTML. All 
+      other things remained the same as in the previous title. 
+  -->
   <hr>
   <h2><em>EDUCATION</em> <img src="education.png" alt="Education Icon" style="width:30px;height:30px;"> </h2>
   <hr>
+    <!--
+          This is the first time in this project I am using the list. In this case I am using an ordered
+          list since I am listing the schools I attended and talking about my knowledge which is from the time I 
+          went to primary school until the present. 
+      -->
   <blockquote>
-     
     <ol>
       <li>
         <h3>HIGHER EDUCATION</h3> 
@@ -66,7 +98,8 @@ This is the first project from CS412-Web Application Development
                     and Statistics, Project Management, Disscrete Mathematics , Software
                     Testing and Maintance , Computer Architecture , Database Managemet ,
                     Operations Research, Quality and Realibility Engineering, etc.</em> My
-                studies are in English.</p> </p></li>
+                studies are in English.</p> </p>
+      </li>
       <br>
       <li>
         <h3>HIGH SCHOOL</h3> 
@@ -79,6 +112,7 @@ This is the first project from CS412-Web Application Development
                     a school magazine, but also writing essays, and won first place at the federal 
                     level in one of the competitions.</p> </p>
       </li>
+    </li>
     <br>
     <li>
       <h3>PRIMARY SCHOOL</h3> 
@@ -97,10 +131,13 @@ This is the first project from CS412-Web Application Development
           <h2>WORKING EXPERIENCE <img src="work.png" alt="Work Icon" style="width:30px;height:30px;"> </h2> 
           <hr>
           <blockquote>
+                <!-- 
+                  For this part I am using unordered list just because some of activities were happening or are still 
+                  happening in the same time, so we do not really have the right order to form this list. Also, I wanted to
+                  have a part of code with unordered list to see how this type of lists are functionating.
+              -->
           <ul>
-             
             <li>
-                
                 <strong>Editor of the website of the non-governmental organization
                     <em>NETWORK OF STUDENT COUNCILS OF BOSNIA AND HERZEGOVINA</em></strong>
                     <p><em>dec 2019 - present</em></p>
@@ -128,6 +165,11 @@ This is the first project from CS412-Web Application Development
         <hr>
         <h2>SKILLS <img src="skill.png" alt="Skills Icon" style="width:30px;height:30px;"></h2> 
         <hr>
+         <!-- 
+                  Here, I am again using the unordered lists since I am talking about my skills.
+                  Also, this time I tried another type of <ul> tag, "circle" which makes list look
+                  organized in a little bit nicer way.
+              -->
         <blockquote>
               <h3>SOFT SKILLS</h3>
              
@@ -138,7 +180,7 @@ This is the first project from CS412-Web Application Development
                     <li>Problem-solving </li>
                         <li>Time management </li>
                             <li>Leadership</li>
-                      
+                            </blockquote>
 <blockquote>
                             <h3>HARD SKILLS</h3>
             <ul type="circle">
@@ -150,26 +192,34 @@ This is the first project from CS412-Web Application Development
                             <li>Foreign languages (English, Turkish)</li>
                 </ul>
                 </blockquote>
-
-                
-            </ul>  
+            </ul>
         <br>
         <hr>
             <h2>CONTACT ME <img src="contact.png" alt="Contact Icon" style="width:30px;height:30px;"></h2> 
             <hr>
             <blockquote>
 
-   
+    <!-- 
+        The main goal of this part of the code is to use <adress> tag as well as 
+            connecting most of the tags we already learn with the goal to have the webpage
+            with functionality and ability of reading data clearly from it. 
+    -->
     <adress>
         <ul>
         <li><dl><dt><strong>private e-mail:</strong></dt><dd><a href="mailto:eldin.curovac@icloud.com">
-        eldin.curovac@icloud.com</a></dd>
+        eldin.curovac@icloud.com</a></dd></li>
         <li><dt><strong>official e-mail:</strong></dt>
         <dd><a href="mailto:190302022@student.ius.edu.ba">
-            e.curovac@student.ius.edu.ba</a></dd>
+            e.curovac@student.ius.edu.ba</a></dd></li>
         <li><strong>adress:</strong> </li><dd>old adress: <del>Murisa Živojevića 7, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 73000 Goražde</del></dd>
     <dd>new adress: <ins>Stupska bb, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 71000 Sarajevo</ins></dd></li>
         <li><dl><dt><strong>phone number: </strong></dt><dd>
-            <ins>+387 62 - 644 / 697</ins></dd>
+            <ins>+387 62 - 644 / 697</ins></dd></li>
     </dl>
+</ul>
+</adress>
+                </blockquote>
+    </body>
+
+</html>
 
