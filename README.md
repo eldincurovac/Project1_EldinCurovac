@@ -13,25 +13,17 @@ This is the first project from CS412-Web Application Development
         
     -->
     <meta charset="UTF-8" />
-    <!-- This part of the code is for initializing the title of our first website which is going to be shown
-    in the browser's tab
--->
+   
     <title> CV - Eldin Curovac</title>
   </head>
 
   <body>
       <figure>
-          <!-- The first and the main header of the website would be shown above 
-        the photo of the person -->
+         
     <h1><ins>Biography</ins></h1>
     <img src="cvpic.jpg" alt="My CV photo" style="width:200px;height:200px;">
 </figure>
-<!-- 
-    Since we want to make introudction to the CV and say few words about ourselves,
-    we are going to put it in <blockquote> and make it pop out of other text in the website. 
-    I tried to use as much as possible tags to practice and did not really write the most important informations
-    about myself here. 
--->
+
     <blockquote>
       <p>
         Hello! My name is <strong>Eldin Curovac</strong> and I am a student of
@@ -43,11 +35,7 @@ This is the first project from CS412-Web Application Development
       </p>
     </blockquote>
 
-    <!-- 
-        I added the first title of the CV which I named "PROFILE" and put here all of the information
-        that I think are important for somebody who is trying to get to know me from the CV and hears my
-        name for the first time. As well as the little icon connected to the meaning of the title.
-    -->
+    
     <br />
     <hr>
     <h2><strong>PROFILE</strong> <img src="profile.png" alt="Profile Icon" style="width:30px;height:30px;"> </h2>
@@ -68,21 +56,13 @@ This is the first project from CS412-Web Application Development
         Croatian and Montenegrin fluently.
       </p>
     </blockquote>
-  <!-- 
-      All the titles in the CV are divided from other text by the <hr> tag since we are not using the
-      CSS for this project and we are trying to make it as nice as possible with only using HTML. All 
-      other things remained the same as in the previous title. 
-  -->
+  
   <br />
   <hr>
   <h2><em>EDUCATION</em> <img src="education.png" alt="Education Icon" style="width:30px;height:30px;"> </h2>
   <hr>
   <blockquote>
-      <!--
-          This is the first time in this project I am using the list. In this case I am using an ordered
-          list since I am listing the schools I attended and talking about my knowledge which is from the time I 
-          went to primary school until the present. 
-      -->
+     
     <ol>
       <li>
         <h3>HIGHER EDUCATION</h3> 
@@ -137,11 +117,7 @@ This is the first project from CS412-Web Application Development
           <hr>
           <blockquote>
           <ul>
-              <!-- 
-                  For this part I am using unordered list just because some of activities were happening or are still 
-                  happening in the same time, so we do not really have the right order to form this list. Also, I wanted to
-                  have a part of code with unordered list to see how this type of lists are functionating.
-              -->
+             
             <li>
                 
                 <strong>Editor of the website of the non-governmental organization
@@ -174,11 +150,7 @@ This is the first project from CS412-Web Application Development
         <hr>
         <blockquote>
               <h3>SOFT SKILLS</h3>
-              <!-- 
-                  Here, I am again using the unordered lists since I am talking about my skills.
-                  Also, this time I tried another type of <ul> tag, "circle" which makes list look
-                  organized in a little bit nicer way.
-              -->
+             
             <ul type="circle">
                 <li>
                     Communication </li>
@@ -208,11 +180,7 @@ This is the first project from CS412-Web Application Development
             <hr>
             <blockquote>
 
-    <!-- 
-        The main goal of this part of the code is to use <adress> tag as well as 
-            connecting most of the tags we already learn with the goal to have the webpage
-            with functionality and ability of reading data clearly from it. 
-    -->
+   
     <adress>
         <ul>
         <li><dl><dt><strong>private e-mail:</strong></dt><dd><a href="mailto:eldin.curovac@icloud.com">
