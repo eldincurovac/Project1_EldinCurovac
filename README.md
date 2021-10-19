@@ -184,9 +184,7 @@
                     <li>Tools, Computer Programming (C++, Java) </li>
                         <li>Presentation </li>
                             <li>Foreign languages (English, Turkish)</li>
-                </ul>
-  
-                </blockquote>
+              </ul>
   
             </ul>
         <br>
@@ -211,20 +209,15 @@
         <dd><a href="mailto:190302022@student.ius.edu.ba">
           
             e.curovac@student.ius.edu.ba</a></dd>
-          </li>
+          
           
         <li><strong>adress:</strong> </li><dd>old adress: <del>Murisa Živojevića 7, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 73000 Goražde</del></dd>
     <dd>new adress: <ins>Stupska bb, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 71000 Sarajevo</ins></dd></li>
         <li><dl><dt><strong>phone number: </strong></dt><dd>
           
             <ins>+387 62 - 644 / 697</ins></dd>
-          </li>
+          
           
     </dl>
-</ul>
 
-</adress>       
-</blockquote>
-    </body>
-</html>
 
