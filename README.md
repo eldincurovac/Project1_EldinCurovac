@@ -12,7 +12,8 @@
     <!-- This part of the code is for initializing the title of our first website which is going to be shown
     in the browser's tab
 -->
-    <title> CV - Eldin Curovac </title>
+    <title> CV - Eldin Curovac 
+    </title>
   </head>
 
   <body>
@@ -107,7 +108,6 @@
                     a school magazine, but also writing essays, and won first place at the federal 
                     level in one of the competitions.</p> </p>
       </li>
-    </li>
     <br>
     <li>
       <h3>PRIMARY SCHOOL</h3> 
@@ -175,8 +175,7 @@
                     <li>Problem-solving </li>
                         <li>Time management </li>
                             <li>Leadership</li>
-                            </blockquote>
-<blockquote>
+
                             <h3>HARD SKILLS</h3>
             <ul type="circle">
                 <li>
@@ -211,13 +210,15 @@
           
         <dd><a href="mailto:190302022@student.ius.edu.ba">
           
-            e.curovac@student.ius.edu.ba</a></dd></li>
+            e.curovac@student.ius.edu.ba</a></dd>
+          </li>
           
         <li><strong>adress:</strong> </li><dd>old adress: <del>Murisa Živojevića 7, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 73000 Goražde</del></dd>
     <dd>new adress: <ins>Stupska bb, Bosna i Hercegovina, Federacija Bosne i Hercegovine, 71000 Sarajevo</ins></dd></li>
         <li><dl><dt><strong>phone number: </strong></dt><dd>
           
-            <ins>+387 62 - 644 / 697</ins></dd></li>
+            <ins>+387 62 - 644 / 697</ins></dd>
+          </li>
           
     </dl>
 </ul>
