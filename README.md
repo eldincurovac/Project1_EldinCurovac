@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <!--
@@ -12,7 +12,7 @@
     <!-- This part of the code is for initializing the title of our first website which is going to be shown
     in the browser's tab
 -->
-    <title> CV - Eldin Curovac</title>
+    <title> CV - Eldin Curovac </title>
   </head>
 
   <body>
